@@ -184,26 +184,27 @@ class App extends React.Component {
               </div>
               <div className="col-sm-4">
                 <div className="contact">
-                  <i className="fa fa-linkedin"><a href="www.linkedin.com/in/tara-d-930627135" target="_blank"><h3>linkedin</h3></a></i>  
+                  <i className="fa fa-linkedin"><a href="www.linkedin.com/in/tara-d-930627135" target="_blank"><h3>linkedin</h3></a></i>
                 </div>
               </div>
 
               <div className="col-sm-4">
                 <div className="contact">
-                  <i className="fa fa-envelope"></i>
-                  <h3>Email</h3>
-                  <p>tara.demel91@gmail.com</p>
+                  <i className="fa fa-envelope">
+                    <a href="mailto:tara.demel91@gmail.com" target="_blank">
+                      <h3>Email</h3>
+                    </a></i>
                 </div>
               </div>
 
               <div className="col-sm-4">
                 <div className="contact">
                   <i className="fa fa-github"><a href="https://github.com/taraDM23" target="_blank">   <h3>Github</h3> </a></i>
-                
+
                 </div>
               </div>
 
-              <div className="col-md-8 col-md-offset-2">
+              {/*   <div className="col-md-8 col-md-offset-2">
                 <form className="contact-form">
                   <input type="text" className="input" placeholder="Name" />
                   <input type="email" className="input" placeholder="Email" />
@@ -211,7 +212,7 @@ class App extends React.Component {
                   <textarea className="input" placeholder="Message"></textarea>
                   <button className="main-btn">Send message</button>
                 </form>
-              </div>
+              </div> */}
 
             </div>
 
@@ -231,6 +232,7 @@ class App extends React.Component {
                   <li><a href="www.linkedin.com/in/tara-d-930627135" target="_blank"><i className="fa fa-linkedin"></i></a></li>
                 </ul>
                 <div className="footer-copyright">
+                  <p>COPYRIGHT © 2017. ALL RIGHTS RESERVED. DESIGNED BY COLORLIB</p>
                 </div>
 
               </div>
