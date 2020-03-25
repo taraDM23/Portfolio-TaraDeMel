@@ -75,7 +75,7 @@ class App extends React.Component {
                 <div className="about">
                   <i className="fa fa-user"></i>
                   <h3>My linkedin</h3>
-                  <a href="#">Read more</a>
+                  <a href="www.linkedin.com/in/tara-d-930627135" target="_blank">Read more</a>
                 </div>
               </div>
 
