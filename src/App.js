@@ -54,18 +54,11 @@ class App extends React.Component {
                 <h2 className="title">About Me</h2>
               </div>
 
-              <div className="col-md-4">
-                <div className="about">
-                  <i className="fa fa-user"></i>
-                  <h3>My Bio</h3>
-                  <a href="#">Read more</a>
-                </div>
-              </div>
-
+  
               <div className="col-md-4">
                 <div className="about">
                   <i className="fa fa-file"></i>
-                  <h3>Resume</h3>
+                  <h3>My Resume</h3>
                   <a href="https://drive.google.com/file/d/1MPotwXjNKBxFo_4dokOAiSGZfExad4Ug/view?usp=sharing" target="_blank" >Link Here</a>
                 </div>
               </div>
@@ -73,8 +66,16 @@ class App extends React.Component {
               <div className="col-md-4">
                 <div className="about">
                   <i className="fa fa-github"></i>
-                  <h3>GitHub</h3>
+                  <h3>My GitHub</h3>
                   <a href="https://github.com/taraDM23">Go to Github Portfolio</a>
+                </div>
+              </div>
+
+                   <div className="col-md-4">
+                <div className="about">
+                  <i className="fa fa-user"></i>
+                  <h3>My linkedin</h3>
+                  <a href="#">Read more</a>
                 </div>
               </div>
 
@@ -96,7 +97,7 @@ class App extends React.Component {
               </div>
 
               <div className="col-md-4 col-xs-6 work">
-                <img className="img-responsive" src="./img/work1.png" alt="" />
+                <img className="img-responsive" src="./img/work1.png" alt="" style={{width:600, height:300}}/>
                 <div className="overlay"></div>
                 <div className="work-content">
                   <span>Recipe Lover</span>
@@ -108,7 +109,7 @@ class App extends React.Component {
               </div>
 
               <div className="col-md-4 col-xs-6 work">
-                <img className="img-responsive" src="./img/work2.jpg" alt="" />
+                <img className="img-responsive" src="./img/work2.jpg" alt="" style={{width:600, height:300}} />
                 <div className="overlay"></div>
                 <div className="work-content">
                   <span>Don't Eat</span>
@@ -121,7 +122,7 @@ class App extends React.Component {
               </div>
 
               <div className="col-md-4 col-xs-6 work">
-                <img className="img-responsive" src="./img/work3.jpg" alt="" />
+                <img className="img-responsive" src="./img/work3.jpg" alt="" style={{width:600, height:300}} />
                 <div className="overlay"></div>
                 <div className="work-content">
                   <span>Note Taker</span>
@@ -134,7 +135,7 @@ class App extends React.Component {
               </div>
 
               <div className="col-md-4 col-xs-6 work">
-                <img className="img-responsive" src="./img/work4.jpg" alt="" />
+                <img className="img-responsive" src="./img/work4.jpg" alt="" style={{width:600, height:300}} />
                 <div className="overlay"></div>
                 <div className="work-content">
                   <span>Random Password Generator</span>
@@ -146,7 +147,7 @@ class App extends React.Component {
                 </div>
               </div>
               <div className="col-md-4 col-xs-6 work">
-                <img className="img-responsive" src="./img/work5.jpg" alt="" />
+                <img className="img-responsive" src="./img/work5.jpg" alt="" style={{width:600, height:300}} />
                 <div className="overlay"></div>
                 <div className="work-content">
                   <span>Sharing is Caring</span>
@@ -158,7 +159,7 @@ class App extends React.Component {
               </div>
 
               <div className="col-md-4 col-xs-6 work">
-                <img className="img-responsive" src="./img/work6.jpg" alt="" />
+                <img className="img-responsive" src="./img/work6.jpg" alt="" style={{width:500, height:300}} />
                 <div className="overlay"></div>
                 <div className="work-content">
                   <span>Team Portfolio</span>
