@@ -96,7 +96,7 @@ class App extends React.Component {
               </div>
 
               <div className="col-md-4 col-xs-6 work">
-                <img className="img-responsive" src="./img/work1.jpg" alt="" />
+                <img className="img-responsive" src="./img/work1.png" alt="" />
                 <div className="overlay"></div>
                 <div className="work-content">
                   <span>Recipe Lover</span>
