@@ -143,7 +143,7 @@ class App extends React.Component {
                   <span>Random Password Generator</span>
                   <h3>This application generates a random password based on user-selected criteria. </h3>
                   <div className="work-link">
-                    <a href="https://taradm23.github.io/RandomPW/" target="_blank"><i className="fa fa-external-link"></i></a>
+                    <a href="https://taradm23.github.io/Random-Password-Generator/" target="_blank"><i className="fa fa-external-link"></i></a>
 
                   </div>
                 </div>
