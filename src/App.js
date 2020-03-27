@@ -40,8 +40,8 @@ class App extends React.Component {
                   <div className="home-content">
                     <h1 className="white-text">Welcome! Aloha! Kia Ora!</h1>
                     <p className="white-text"> My Name is Tara and I am a junior Full Stack Software developer.</p>
-                    <p className="white-text"> Coming from a customer service and project management background, I began coding not six months ago. In an effort to fulfill a long ignored need to find passion in my work, I changed direction and haven't looked back!</p>
-                    <p className="white-text"> Please see below my efforts so far. Mahalo!</p>
+                    <p className="white-text"> Coming from a customer service and project management background, I began my coding journey not six months ago, in an effort to fulfill a long sought out need to find passion in my work. I haven't looked back since!</p>
+                    <p className="white-text"></p>
                   </div>
                 </div>
 
