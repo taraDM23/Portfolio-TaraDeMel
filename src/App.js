@@ -194,8 +194,9 @@ class App extends React.Component {
               <div className="col-sm-4">
                 <div className="contact">
                   <i className="fa fa-envelope">
-                    <a href="mailto:tara.demel91@gmail.com" target="_blank">
+                    <a href="mailto:tara_demel@live.com" target="_blank">
                       <h3>Email</h3>
+                      <h5>tara_demel@live.com</h5>
                     </a></i>
                 </div>
               </div>
