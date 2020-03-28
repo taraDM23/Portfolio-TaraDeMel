@@ -236,7 +236,7 @@ class App extends React.Component {
                   <li><a href="https://www.linkedin.com/in/tara-de-mel/" target="_blank"><i className="fa fa-linkedin"></i></a></li>
                 </ul>
                 <div className="footer-copyright">
-                  <p>COPYRIGHT © 2017. ALL RIGHTS RESERVED. DESIGNED BY COLORLIB</p>
+                  <p> DESIGNED BY COLORLIB</p>
                 </div>
 
               </div>
