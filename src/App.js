@@ -149,13 +149,13 @@ class App extends React.Component {
                 </div>
               </div>
               <div className="col-md-4 col-xs-6 work">
-                <img className="img-responsive" src="./img/work5.jpg" alt="" style={{ width: 600, height: 300 }} />
+                <img className="img-responsive" src="./img/work5.png" alt="" style={{ width: 600, height: 300 }} />
                 <div className="overlay"></div>
                 <div className="work-content">
                   <span>Sharing is Caring</span>
-                  <h3>Lorem ipsum dolor</h3>
+                  <h3>This MERN application allows user to view, share and request second-hand or unwanted items. </h3>
                   <div className="work-link">
-                    <a href="#" target="_blank"><i className="fa fa-external-link"></i></a>
+                    <a href="https://still-mesa-84717.herokuapp.com/" target="_blank"><i className="fa fa-external-link"></i></a>
                   </div>
                 </div>
               </div>
