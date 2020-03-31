@@ -155,7 +155,7 @@ class App extends React.Component {
                   <span>Sharing is Caring</span>
                   <h3>This MERN application allows user to view, share and request second-hand or unwanted items. </h3>
                   <div className="work-link">
-                    <a href="https://still-mesa-84717.herokuapp.com/" target="_blank"><i className="fa fa-external-link"></i></a>
+                    <a href="https://sharing-is-caring2020.herokuapp.com/" target="_blank"><i className="fa fa-external-link"></i></a>
                   </div>
                 </div>
               </div>
@@ -204,10 +204,13 @@ class App extends React.Component {
               <div className="col-sm-4">
                 <div className="contact">
                   <i className="fa fa-github"><a href="https://github.com/taraDM23" target="_blank">   <h3>Github</h3> </a></i>
-
                 </div>
               </div>
-
+              <div className="col-md-8 col-md-offset-2">
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSer6IuDm8fW1O0TGcCWUrvxXGWtN1trX9ZpEmocDQJd8gSaUA/viewform?embedded=true"
+                  width="100%" height="1533" frameborder="0" marginheight="0" marginwidth="0"
+                  style={{ marginLeft: "0%" }}>Loading…</iframe>
+              </div>
               {/*   <div className="col-md-8 col-md-offset-2">
                 <form className="contact-form">
                   <input type="text" className="input" placeholder="Name" />
@@ -257,7 +260,7 @@ class App extends React.Component {
             <span></span>
           </div>
         </div>
-      </div>
+      </div >
     );
   }
 }
