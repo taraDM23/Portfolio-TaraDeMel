@@ -61,7 +61,7 @@ class App extends React.Component {
                 <div className="about">
                   <i className="fa fa-file"></i>
                   <h3>My Resume</h3>
-                  <a href="https://drive.google.com/file/d/1MPotwXjNKBxFo_4dokOAiSGZfExad4Ug/view?usp=sharing" target="_blank" >Link Here</a>
+                  <a href="https://drive.google.com/file/d/13kaGatSNckm5D-sW8hw0fdQMi3AdZh0v/view?usp=sharing" target="_blank" >Link Here</a>
                 </div>
               </div>
 
